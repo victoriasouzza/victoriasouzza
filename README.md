@@ -1,6 +1,6 @@
 ### Oiii! Eu sou Victória Souza
 
-- 🔭 Atualmente tenho estudado e aprimorado meus conhecimentos em HTML | CSS | JavaScript
+- 🔭 Atualmente tenho estudado e aprimorado meus conhecimentos em Desenvolvimento Full Stack 
 
 
 <div style="display: inline_block"><br>
@@ -14,6 +14,6 @@
 <div> 
   <a href=" https://www.youtube.com/channel/UC1V3yehiH2sGnnXEzxWvhUQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_vicsouzaa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vict%C3%B3ria-souza-925504210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victória-souza-22vszc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
